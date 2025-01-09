@@ -9,7 +9,9 @@ const Footer = () => {
         {/* left section */}
         <div>
              <img className='w-40 mb-5' src={assets.logo} alt="" />
-            <p className='w-full leading-6 text-gray-600 md:w-2/3 '>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis a aspernatur ipsa debitis voluptas cum? ipsum dolor sit amet consectetur adipisicing elit. Blanditiis a aspernatur ipsa debitis</p>
+            <p className='w-full leading-6 text-gray-600 md:w-2/3 '>A Prescripto Doctor's Appointment Booking System is a specialized platform designed to simplify and enhance the process of scheduling and managing appointments for patients. This system aims to improve patient care by reducing waiting times, enhancing accessibility, and streamlining clinic operations.
+
+</p>
         </div>
 
         {/* center section */}

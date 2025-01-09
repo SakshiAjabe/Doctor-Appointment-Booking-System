@@ -296,4 +296,33 @@ export const doctors = [
             line2: 'Circle, Ring Road, London'
         }
     },
+    {
+        _id: 'doc16',
+        name: 'Dr. Aliaze Mirchandani',
+        image: doc14,
+        speciality: 'Gastroenterologist',
+        degree: 'MBBS',
+        experience: '3 Years',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 60,
+        address: {
+            line1: '27th Cross, Richmond',
+            line2: 'Circle, Ring Road, London'
+        }
+    },
+
+    {
+        _id: 'doc17',
+        name: 'Dr. Genelia shah',
+        image: doc2,
+        speciality: 'Gastroenterologist',
+        degree: 'MBBS',
+        experience: '3 Years',
+        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 60,
+        address: {
+            line1: '27th Cross, Richmond',
+            line2: 'Circle, Ring Road, London'
+        }
+    },
 ]
